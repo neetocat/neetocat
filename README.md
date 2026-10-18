@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ff8fa3&text=♡%20neetocat%20♡&fontAlignY=30&fontColor=fff5f0&fontSize=48&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=ff8fa3&text=♡%20neetocat%20♡&fontAlignY=25&fontColor=fff5f0&fontSize=48&animation=twinkling" />
 </p>
 
-<h1 align="center" style="color:#ff8fa3;">
+<h1 margin-top="20px" align="center" style="color:#ff8fa3;">
 ദ്ദി/ᐠ - ⩊ -マ.ᐟ
 <br>
 娘　娘　娘　娘　你　好　娘</b>　!
