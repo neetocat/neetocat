@@ -22,6 +22,10 @@
   <img src="https://skillicons.dev/icons?i=windows,ubuntu,kali,vscode,github" />
 </p>
 
+<p align="center">
+  <img src="https://count.getloli.com/@neetocat?name=neetocat&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
+</p>
+
 <h2>
   <img src="https://static2.klipy.com/ii/4493325008d34b7bf8cd6813cd5c1619/fb/2c/Medr9Qat4Ib0DRoJx0.gif" width="30" />&nbsp; Stuff I Use
 </h2>
